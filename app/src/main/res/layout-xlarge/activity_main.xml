@@ -106,7 +106,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -135,7 +135,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -164,7 +164,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -193,7 +193,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -222,7 +222,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -252,7 +252,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
                 >
             </TableRow>
@@ -282,7 +282,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -311,7 +311,7 @@
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -343,7 +343,7 @@ Verify all safety rings of hatch node are in place. Clean them if necessary."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -373,7 +373,7 @@ Verify all safety rings of hatch node are in place. Clean them if necessary."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -403,7 +403,7 @@ Verify all safety rings of hatch node are in place. Clean them if necessary."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -433,7 +433,7 @@ Verify all safety rings of hatch node are in place. Clean them if necessary."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -467,7 +467,7 @@ Dry the compartments."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -496,7 +496,7 @@ Dry the compartments."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -526,7 +526,7 @@ Dry the compartments."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -556,7 +556,7 @@ Dry the compartments."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
 
@@ -586,7 +586,7 @@ Dry the compartments."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
             <TableRow
@@ -615,7 +615,7 @@ Dry the compartments."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
             <TableRow
@@ -644,7 +644,7 @@ Dry the compartments."
                     android:layout_gravity="center"
                     android:ems="10"
                     android:inputType="textPersonName"
-                    android:text="Enter Comments..."
+                    android:hint="Enter Comments..."
                     tools:ignore="HardcodedText,LabelFor" />
             </TableRow>
         </TableLayout>
